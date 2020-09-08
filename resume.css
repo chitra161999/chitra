@@ -1,0 +1,64 @@
+#container {
+    color:black;
+    background-color: olivedrab;
+    
+    
+}
+
+h1:hover{
+    color:purple;
+    text-align: center;
+
+    
+    
+}
+.sidebar{
+    color:black;
+    border:none;
+    padding-top:1px;
+    float:left;
+    height:200px;
+    width:200px;
+}
+h1,h2,h3,h4{
+    font-weight:bold;
+}
+h2:hover{
+    color:orange;
+    transition:font-size 0.3s ease;
+    
+}
+
+
+#obj{
+    float:left;
+    margin-top: -70px;
+}
+
+h3:hover{
+    color:orange;
+    transition:font-size 0.3s ease;
+    
+    
+}
+h4:hover{
+    color:orange;
+
+}
+#text{
+    font-size:15px;
+}
+table,th,td{
+    border:solid 1px black;
+    border-collapse: collapse;
+    margin-top: 150px;
+    margin-left:100px;
+
+} 
+th,td{
+
+    padding:12px;
+}
+a:hover{
+  lighting-color:yellowgreen;
+}
